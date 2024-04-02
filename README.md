@@ -1,4 +1,5 @@
 此处为react-scroll-view-yjt的说明
+github地址:https://github.com/yjt-sys/react-scroll-view-yjt
 1.使用方式,直接将要进行滚动的数据放入组件内即可
 
 ```
